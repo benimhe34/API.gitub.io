@@ -1,0 +1,44 @@
+body{
+    background-color: grey;
+}
+#value{
+
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+    padding: auto;
+    text-transform: uppercase;
+    
+    
+    position: absolute;
+    top: 90px;
+    
+}
+
+
+
+#write{
+    margin-left: 50px;
+    font-size: 25px;
+    position: absolute;
+    top: 50px;
+    
+    
+    user-select: none;
+    text-transform: uppercase;
+    
+}
+#add{
+    cursor: pointer;
+    margin-left: 225px;
+    position:absolute;
+    top: 95px;
+    
+}
+#add2{
+    cursor: pointer;
+    margin-left: 280px;
+    position:absolute;
+    top: 95px;
+    
+}
